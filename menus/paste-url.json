@@ -1,0 +1,21 @@
+{
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "Paste URL...",
+          "command": "paste-url"
+        }
+      ]
+    }
+  ],
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Paste URL",
+        "command": "paste-url"
+      }
+    ]
+  }
+}
