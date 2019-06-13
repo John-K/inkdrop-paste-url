@@ -5,7 +5,7 @@
       "submenu": [
         {
           "label": "Paste URL...",
-          "command": "paste-url"
+          "command": "paste-url:paste-url"
         }
       ]
     }
@@ -14,7 +14,7 @@
     ".CodeMirror": [
       {
         "label": "Paste URL",
-        "command": "paste-url"
+        "command": "paste-url:paste-url"
       }
     ]
   }

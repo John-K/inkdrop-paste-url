@@ -1,5 +1,11 @@
 {
-  "body": {
-    "ctrl-alt-v": "paste-url"
+  ".platform-darwin": {
+    "cmd-alt-v": "paste-url:paste-url"
+  },
+  ".platform-win32": {
+    "ctrl-alt-v": "paste-url:paste-url"
+  },
+  ".platform-linux": {
+    "ctrl-alt-v": "paste-url:paste-url"
   }
 }
