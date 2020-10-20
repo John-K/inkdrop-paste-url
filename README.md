@@ -1,4 +1,5 @@
 # paste-url Inkdrop Plugin
+![](https://inkdrop-plugin-badge.vercel.app/api/version/paste-url) ![](https://inkdrop-plugin-badge.vercel.app/api/downloads/paste-url)
 
 A plugin for [Inkdrop](https://www.inkdrop.info/) which adds [BoostNote](https://boostnote.io/)-style URL pasting as a markdown link. 
 
