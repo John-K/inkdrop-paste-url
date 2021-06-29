@@ -1,7 +1,7 @@
 {
   "name": "paste-url",
   "main": "./lib/index.js",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "BoostNote-style pasting of URLs as a markdown link",
   "keywords": [],
   "repository": "https://github.com/john-k/inkdrop-paste-url",
