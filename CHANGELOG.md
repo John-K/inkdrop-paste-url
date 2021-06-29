@@ -1,3 +1,5 @@
+## 1.4.0 - Trim title whitespace
+* trim whitespace in URL title - thanks to timblair for the PR
 ## 1.3.0 - Fix key bindings
 * Fix key bindings so they show up in Plugin Settings
 * Customize key bindings per-platform 
